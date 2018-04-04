@@ -1,0 +1,26 @@
+User Command: node liri.js my-tweets
+
+User Command: node liri.js my-tweets
+
+User Command: node liri.js my-tweets
+
+User Command: node liri.js my-tweets
+
+User Command: node liri.js my-tweets
+
+LIRI Response:
+
+User Tweets:
+User Command: node liri.js my-tweets
+
+User Command: node liri.js my-tweets
+
+User Command: node liri.js my-tweets
+
+User Command: node liri.js my-tweets
+
+User Command: node liri.js my-tweets
+
+LIRI Response:
+
+User Tweets:Created on: Tue Apr 03 20:40:07 +0000 2018Tweet content: What now? "good question." do you have a plan? "sort of. just keep moving."  That's not a plan. "it's gotten me thi… https://t.co/iakXjY4BhCCreated on: Tue Apr 03 20:33:10 +0000 2018Tweet content: Well, you know, I've always been a fan of a story told by Attar of Nishabour. about a king who assembled a group of… https://t.co/aHlqi2vxv0Created on: Tue Apr 03 20:28:14 +0000 2018Tweet content: I like twitter!

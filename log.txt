@@ -24,3 +24,141 @@ User Command: node liri.js my-tweets
 LIRI Response:
 
 User Tweets:Created on: Tue Apr 03 20:40:07 +0000 2018Tweet content: What now? "good question." do you have a plan? "sort of. just keep moving."  That's not a plan. "it's gotten me thi… https://t.co/iakXjY4BhCCreated on: Tue Apr 03 20:33:10 +0000 2018Tweet content: Well, you know, I've always been a fan of a story told by Attar of Nishabour. about a king who assembled a group of… https://t.co/aHlqi2vxv0Created on: Tue Apr 03 20:28:14 +0000 2018Tweet content: I like twitter!
+User Command: node liri.js my-tweets
+
+LIRI Response:
+
+User Tweets:Created on: -----------Tue Apr 03 20:40:07 +0000 2018-----------Tweet content: What now? "good question." do you have a plan? "sort of. just keep moving."  That's not a plan. "it's gotten me thi… https://t.co/iakXjY4BhCCreated on: -----------Tue Apr 03 20:33:10 +0000 2018-----------Tweet content: Well, you know, I've always been a fan of a story told by Attar of Nishabour. about a king who assembled a group of… https://t.co/aHlqi2vxv0Created on: -----------Tue Apr 03 20:28:14 +0000 2018-----------Tweet content: I like twitter!
+User Command: node liri.js my-tweets
+
+LIRI Response:
+User Tweets:Created on: Tue Apr 03 20:40:07 +0000 2018-----------
+Tweet content: What now? "good question." do you have a plan? "sort of. just keep moving."  That's not a plan. "it's gotten me thi… https://t.co/iakXjY4BhC-----------
+Created on: Tue Apr 03 20:33:10 +0000 2018-----------
+Tweet content: Well, you know, I've always been a fan of a story told by Attar of Nishabour. about a king who assembled a group of… https://t.co/aHlqi2vxv0-----------
+Created on: Tue Apr 03 20:28:14 +0000 2018-----------
+Tweet content: I like twitter!-----------
+
+User Command: node liri.js my-tweets
+
+LIRI Response:
+User Tweets:-----------
+Created on: Tue Apr 03 20:40:07 +0000 2018-----------
+Tweet content: What now? "good question." do you have a plan? "sort of. just keep moving."  That's not a plan. "it's gotten me thi… https://t.co/iakXjY4BhC-----------
+Created on: Tue Apr 03 20:33:10 +0000 2018-----------
+Tweet content: Well, you know, I've always been a fan of a story told by Attar of Nishabour. about a king who assembled a group of… https://t.co/aHlqi2vxv0-----------
+Created on: Tue Apr 03 20:28:14 +0000 2018-----------
+Tweet content: I like twitter!-----------
+
+User Command: node liri.js movie-this movie-this+Mr+Nobody
+LIRI Response:
+------------------------
+Movie Information:
+Movie Title: undefined
+Year Released: undefined
+IMDB Rating: undefined
+Country Produced: undefined
+Language: undefined
+Plot: undefined
+Actors: undefined
+Rotten Tomatoes Rating: undefined
+Rotten Tomatoes URL: undefined
+
+User Command: node liri.js movie-this movie-this+Mr+Nobody
+LIRI Response:
+------------------------
+Movie Information:
+Movie Title: undefined
+Year Released: undefined
+IMDB Rating: undefined
+Country Produced: undefined
+Language: undefined
+Plot: undefined
+Actors: undefined
+Rotten Tomatoes Rating: undefined
+Rotten Tomatoes URL: undefined
+
+User Command: node liri.js movie-this movie-this+Mr Nobody
+LIRI Response:
+------------------------
+Movie Information:
+Movie Title: undefined
+Year Released: undefined
+IMDB Rating: undefined
+Country Produced: undefined
+Language: undefined
+Plot: undefined
+Actors: undefined
+Rotten Tomatoes Rating: undefined
+Rotten Tomatoes URL: undefined
+
+User Command: node liri.js movie-this movie-this+cinderella
+LIRI Response:
+------------------------
+Movie Information:
+Movie Title: undefined
+Year Released: undefined
+IMDB Rating: undefined
+Country Produced: undefined
+Language: undefined
+Plot: undefined
+Actors: undefined
+Rotten Tomatoes Rating: undefined
+Rotten Tomatoes URL: undefined
+
+User Command: node liri.js movie-this movie-this+cinderella
+LIRI Response:
+------------------------
+Movie Information:
+Movie Title: Undefined
+Year Released: 06 Nov 2014
+IMDB Rating: N/A
+Country Produced: Lebanon
+Language: Arabic
+Plot: N/A
+Actors: Dana Ahmed, Fouz Alfahad, Nour Arida, Soraya Bakhtiar
+Rotten Tomatoes Rating: undefined
+Rotten Tomatoes URL: undefined
+
+User Command: node liri.js movie-this cinderella
+LIRI Response:
+------------------------
+Movie Information:
+Movie Title: Cinderella
+Year Released: 13 Mar 2015
+IMDB Rating: 6.9
+Country Produced: USA, UK
+Language: English
+Plot: When her father unexpectedly passes away, young Ella finds herself at the mercy of her cruel stepmother and her scheming step-sisters. Never one to give up hope, Ella's fortunes begin to change after meeting a dashing stranger.
+Actors: Cate Blanchett, Lily James, Richard Madden, Helena Bonham Carter
+Rotten Tomatoes Rating: undefined
+Rotten Tomatoes URL: undefined
+
+User Command: node liri.js movie-this Mr Nobody
+LIRI Response:
+------------------------
+Movie Information:
+Movie Title: Mr. Nobody
+Year Released: 26 Sep 2013
+IMDB Rating: 7.9
+Country Produced: Belgium, Germany, Canada, France, USA, UK
+Language: English, Mohawk
+Plot: A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.
+Actors: Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham
+Rotten Tomatoes Rating: undefined
+Rotten Tomatoes URL: undefined
+
+User Command: node liri.js movie-this hello
+LIRI Response:
+------------------------
+Movie Information:
+Movie Title: Hello
+Year Released: 10 Oct 2008
+IMDB Rating: 3.4
+Country Produced: India
+Language: Hindi
+Plot: Hello... is a tale about the events that happen one night at a call center. Told through the views of the protagonist, Shyam, it is a story of almost lost love, thwarted ambitions, absence ...
+Actors: Sharman Joshi, Amrita Arora, Sohail Khan, Isha Koppikar
+Rotten Tomatoes Rating: undefined
+Rotten Tomatoes URL: undefined
+

@@ -162,3 +162,586 @@ Actors: Sharman Joshi, Amrita Arora, Sohail Khan, Isha Koppikar
 Rotten Tomatoes Rating: undefined
 Rotten Tomatoes URL: undefined
 
+User Command: node liri.js my-tweets
+
+User Command: node liri.js movie-this hello
+User Command: node liri.js spotify-this-song Ace of Base
+User Command: node liri.js do-what-it-says
+User Command: node liri.js spotify-this-song Ace of Base
+User Command: node liri.js spotify-this-song "I Want it That Way"
+LIRI Response:
+------------------------
+Movie Information:
+Movie Title: Hello
+Year Released: 10 Oct 2008
+IMDB Rating: 3.4
+Country Produced: India
+Language: Hindi
+Plot: Hello... is a tale about the events that happen one night at a call center. Told through the views of the protagonist, Shyam, it is a story of almost lost love, thwarted ambitions, absence ...
+Actors: Sharman Joshi, Amrita Arora, Sohail Khan, Isha Koppikar
+Rotten Tomatoes Rating: undefined
+Rotten Tomatoes URL: undefined
+
+LIRI Response:
+User Tweets:-----------
+Created on: Tue Apr 03 20:40:07 +0000 2018-----------
+Tweet content: What now? "good question." do you have a plan? "sort of. just keep moving."  That's not a plan. "it's gotten me thi… https://t.co/iakXjY4BhC-----------
+Created on: Tue Apr 03 20:33:10 +0000 2018-----------
+Tweet content: Well, you know, I've always been a fan of a story told by Attar of Nishabour. about a king who assembled a group of… https://t.co/aHlqi2vxv0-----------
+Created on: Tue Apr 03 20:28:14 +0000 2018-----------
+Tweet content: I like twitter!-----------
+
+User Command: node liri.js my-tweets
+
+User Command: node liri.js movie-this hello
+User Command: node liri.js spotify-this-song Ace of Base
+User Command: node liri.js do-what-it-says
+User Command: node liri.js spotify-this-song Ace of Base
+User Command: node liri.js spotify-this-song "I Want it That Way"
+LIRI Response:
+------------------------
+Movie Information:
+Movie Title: Hello
+Year Released: 10 Oct 2008
+IMDB Rating: 3.4
+Country Produced: India
+Language: Hindi
+Plot: Hello... is a tale about the events that happen one night at a call center. Told through the views of the protagonist, Shyam, it is a story of almost lost love, thwarted ambitions, absence ...
+Actors: Sharman Joshi, Amrita Arora, Sohail Khan, Isha Koppikar
+Rotten Tomatoes Rating: undefined
+Rotten Tomatoes URL: undefined
+
+LIRI Response:
+User Tweets:-----------
+Created on: Tue Apr 03 20:40:07 +0000 2018-----------
+Tweet content: What now? "good question." do you have a plan? "sort of. just keep moving."  That's not a plan. "it's gotten me thi… https://t.co/iakXjY4BhC-----------
+Created on: Tue Apr 03 20:33:10 +0000 2018-----------
+Tweet content: Well, you know, I've always been a fan of a story told by Attar of Nishabour. about a king who assembled a group of… https://t.co/aHlqi2vxv0-----------
+Created on: Tue Apr 03 20:28:14 +0000 2018-----------
+Tweet content: I like twitter!-----------
+
+User Command: node liri.js my-tweets
+
+User Command: node liri.js movie-this hello
+User Command: node liri.js do-what-it-says
+User Command: node liri.js spotify-this-song Ace of Base
+User Command: node liri.js spotify-this-song Ace of Base
+User Command: node liri.js spotify-this-song "I Want it That Way"
+LIRI Response:
+------------------------
+Movie Information:
+Movie Title: Hello
+Year Released: 10 Oct 2008
+IMDB Rating: 3.4
+Country Produced: India
+Language: Hindi
+Plot: Hello... is a tale about the events that happen one night at a call center. Told through the views of the protagonist, Shyam, it is a story of almost lost love, thwarted ambitions, absence ...
+Actors: Sharman Joshi, Amrita Arora, Sohail Khan, Isha Koppikar
+Rotten Tomatoes Rating: undefined
+Rotten Tomatoes URL: undefined
+
+LIRI Response:
+User Tweets:-----------
+Created on: Tue Apr 03 20:40:07 +0000 2018-----------
+Tweet content: What now? "good question." do you have a plan? "sort of. just keep moving."  That's not a plan. "it's gotten me thi… https://t.co/iakXjY4BhC-----------
+Created on: Tue Apr 03 20:33:10 +0000 2018-----------
+Tweet content: Well, you know, I've always been a fan of a story told by Attar of Nishabour. about a king who assembled a group of… https://t.co/aHlqi2vxv0-----------
+Created on: Tue Apr 03 20:28:14 +0000 2018-----------
+Tweet content: I like twitter!-----------
+
+LIRI Response:
+------------------------
+Song Information:
+------------------------
+Song Name: The Sign
+Artist: Ace of Base
+Album: The Sign (US Album) [Remastered]
+Preview Here: https://p.scdn.co/mp3-preview/4c463359f67dd3546db7294d236dd0ae991882ff?cid=d375c55859aa490d9bfad0e4aa789e01
+
+LIRI Response:
+------------------------
+Song Information:
+------------------------
+Song Name: I Want It That Way
+Artist: Backstreet Boys
+Album: The Hits--Chapter One
+Preview Here: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=d375c55859aa490d9bfad0e4aa789e01
+
+LIRI Response:
+------------------------
+Song Information:
+------------------------
+Song Name: The Sign
+Artist: Ace of Base
+Album: The Sign (US Album) [Remastered]
+Preview Here: https://p.scdn.co/mp3-preview/4c463359f67dd3546db7294d236dd0ae991882ff?cid=d375c55859aa490d9bfad0e4aa789e01
+
+User Command: node liri.js my-tweets
+
+User Command: node liri.js movie-this hello
+User Command: node liri.js spotify-this-song hello 
+User Command: node liri.js do-what-it-says
+User Command: node liri.js spotify-this-song undefined
+User Command: node liri.js spotify-this-song "I Want it That Way"
+LIRI Response:
+------------------------
+Movie Information:
+Movie Title: Hello
+Year Released: 10 Oct 2008
+IMDB Rating: 3.4
+Country Produced: India
+Language: Hindi
+Plot: Hello... is a tale about the events that happen one night at a call center. Told through the views of the protagonist, Shyam, it is a story of almost lost love, thwarted ambitions, absence ...
+Actors: Sharman Joshi, Amrita Arora, Sohail Khan, Isha Koppikar
+Rotten Tomatoes Rating: undefined
+Rotten Tomatoes URL: undefined
+
+LIRI Response:
+User Tweets:-----------
+Created on: Tue Apr 03 20:40:07 +0000 2018-----------
+Tweet content: What now? "good question." do you have a plan? "sort of. just keep moving."  That's not a plan. "it's gotten me thi… https://t.co/iakXjY4BhC-----------
+Created on: Tue Apr 03 20:33:10 +0000 2018-----------
+Tweet content: Well, you know, I've always been a fan of a story told by Attar of Nishabour. about a king who assembled a group of… https://t.co/aHlqi2vxv0-----------
+Created on: Tue Apr 03 20:28:14 +0000 2018-----------
+Tweet content: I like twitter!-----------
+
+LIRI Response:
+------------------------
+Song Information:
+------------------------
+Song Name: Hello Beautiful
+Artist: Noah Schnacky
+Album: Hello Beautiful
+Preview Here: https://p.scdn.co/mp3-preview/10a58d5841ccfb4e12cb4651b0b7b7c65b5dfe86?cid=d375c55859aa490d9bfad0e4aa789e01
+
+LIRI Response:
+------------------------
+Song Information:
+------------------------
+Song Name: The Sign
+Artist: Ace of Base
+Album: The Sign (US Album) [Remastered]
+Preview Here: https://p.scdn.co/mp3-preview/4c463359f67dd3546db7294d236dd0ae991882ff?cid=d375c55859aa490d9bfad0e4aa789e01
+
+LIRI Response:
+------------------------
+Song Information:
+------------------------
+Song Name: I Want It That Way
+Artist: Backstreet Boys
+Album: The Hits--Chapter One
+Preview Here: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=d375c55859aa490d9bfad0e4aa789e01
+
+User Command: node liri.js my-tweets
+
+User Command: node liri.js movie-this 99 redballon
+User Command: node liri.js spotify-this-song 99 redballon 
+User Command: node liri.js do-what-it-says
+User Command: node liri.js spotify-this-song undefined
+User Command: node liri.js spotify-this-song "I Want it That Way"
+LIRI Response:
+------------------------
+Movie Information:
+Movie Title: undefined
+Year Released: undefined
+IMDB Rating: undefined
+Country Produced: undefined
+Language: undefined
+Plot: undefined
+Actors: undefined
+Rotten Tomatoes Rating: undefined
+Rotten Tomatoes URL: undefined
+
+LIRI Response:
+User Tweets:-----------
+Created on: Tue Apr 03 20:40:07 +0000 2018-----------
+Tweet content: What now? "good question." do you have a plan? "sort of. just keep moving."  That's not a plan. "it's gotten me thi… https://t.co/iakXjY4BhC-----------
+Created on: Tue Apr 03 20:33:10 +0000 2018-----------
+Tweet content: Well, you know, I've always been a fan of a story told by Attar of Nishabour. about a king who assembled a group of… https://t.co/aHlqi2vxv0-----------
+Created on: Tue Apr 03 20:28:14 +0000 2018-----------
+Tweet content: I like twitter!-----------
+
+LIRI Response:
+------------------------
+Song Information:
+------------------------
+Song Name: The Sign
+Artist: Ace of Base
+Album: The Sign (US Album) [Remastered]
+Preview Here: https://p.scdn.co/mp3-preview/4c463359f67dd3546db7294d236dd0ae991882ff?cid=d375c55859aa490d9bfad0e4aa789e01
+
+LIRI Response:
+------------------------
+Song Information:
+------------------------
+Song Name: I Want It That Way
+Artist: Backstreet Boys
+Album: The Hits--Chapter One
+Preview Here: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=d375c55859aa490d9bfad0e4aa789e01
+
+User Command: node liri.js my-tweets
+
+User Command: node liri.js movie-this 99 redballon
+User Command: node liri.js spotify-this-song hello
+User Command: node liri.js do-what-it-says
+User Command: node liri.js spotify-this-song undefined
+User Command: node liri.js spotify-this-song "I Want it That Way"
+LIRI Response:
+------------------------
+Movie Information:
+Movie Title: undefined
+Year Released: undefined
+IMDB Rating: undefined
+Country Produced: undefined
+Language: undefined
+Plot: undefined
+Actors: undefined
+Rotten Tomatoes Rating: undefined
+Rotten Tomatoes URL: undefined
+
+LIRI Response:
+User Tweets:-----------
+Created on: Tue Apr 03 20:40:07 +0000 2018-----------
+Tweet content: What now? "good question." do you have a plan? "sort of. just keep moving."  That's not a plan. "it's gotten me thi… https://t.co/iakXjY4BhC-----------
+Created on: Tue Apr 03 20:33:10 +0000 2018-----------
+Tweet content: Well, you know, I've always been a fan of a story told by Attar of Nishabour. about a king who assembled a group of… https://t.co/aHlqi2vxv0-----------
+Created on: Tue Apr 03 20:28:14 +0000 2018-----------
+Tweet content: I like twitter!-----------
+
+LIRI Response:
+------------------------
+Song Information:
+------------------------
+Song Name: The Sign
+Artist: Ace of Base
+Album: The Sign (US Album) [Remastered]
+Preview Here: https://p.scdn.co/mp3-preview/4c463359f67dd3546db7294d236dd0ae991882ff?cid=d375c55859aa490d9bfad0e4aa789e01
+
+LIRI Response:
+------------------------
+Song Information:
+------------------------
+Song Name: I Want It That Way
+Artist: Backstreet Boys
+Album: The Hits--Chapter One
+Preview Here: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=d375c55859aa490d9bfad0e4aa789e01
+
+LIRI Response:
+------------------------
+Song Information:
+------------------------
+Song Name: Hello Beautiful
+Artist: Noah Schnacky
+Album: Hello Beautiful
+Preview Here: https://p.scdn.co/mp3-preview/10a58d5841ccfb4e12cb4651b0b7b7c65b5dfe86?cid=d375c55859aa490d9bfad0e4aa789e01
+
+User Command: node liri.js my-tweets
+
+User Command: node liri.js movie-this hello
+User Command: node liri.js spotify-this-song undefined
+User Command: node liri.js do-what-it-says
+User Command: node liri.js spotify-this-song undefined
+User Command: node liri.js spotify-this-song "I Want it That Way"
+LIRI Response:
+------------------------
+Movie Information:
+Movie Title: Hello
+Year Released: 10 Oct 2008
+IMDB Rating: 3.4
+Country Produced: India
+Language: Hindi
+Plot: Hello... is a tale about the events that happen one night at a call center. Told through the views of the protagonist, Shyam, it is a story of almost lost love, thwarted ambitions, absence ...
+Actors: Sharman Joshi, Amrita Arora, Sohail Khan, Isha Koppikar
+Rotten Tomatoes Rating: undefined
+Rotten Tomatoes URL: undefined
+
+LIRI Response:
+User Tweets:-----------
+Created on: Tue Apr 03 20:40:07 +0000 2018-----------
+Tweet content: What now? "good question." do you have a plan? "sort of. just keep moving."  That's not a plan. "it's gotten me thi… https://t.co/iakXjY4BhC-----------
+Created on: Tue Apr 03 20:33:10 +0000 2018-----------
+Tweet content: Well, you know, I've always been a fan of a story told by Attar of Nishabour. about a king who assembled a group of… https://t.co/aHlqi2vxv0-----------
+Created on: Tue Apr 03 20:28:14 +0000 2018-----------
+Tweet content: I like twitter!-----------
+
+LIRI Response:
+------------------------
+Song Information:
+------------------------
+Song Name: I Want It That Way
+Artist: Backstreet Boys
+Album: The Hits--Chapter One
+Preview Here: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=d375c55859aa490d9bfad0e4aa789e01
+
+LIRI Response:
+------------------------
+Song Information:
+------------------------
+Song Name: The Sign
+Artist: Ace of Base
+Album: The Sign (US Album) [Remastered]
+Preview Here: https://p.scdn.co/mp3-preview/4c463359f67dd3546db7294d236dd0ae991882ff?cid=d375c55859aa490d9bfad0e4aa789e01
+
+LIRI Response:
+------------------------
+Song Information:
+------------------------
+Song Name: The Sign
+Artist: Ace of Base
+Album: The Sign (US Album) [Remastered]
+Preview Here: https://p.scdn.co/mp3-preview/4c463359f67dd3546db7294d236dd0ae991882ff?cid=d375c55859aa490d9bfad0e4aa789e01
+
+User Command: node liri.js my-tweets
+
+User Command: node liri.js movie-this hello
+User Command: node liri.js spotify-this-song Ace of Base
+User Command: node liri.js do-what-it-says
+User Command: node liri.js spotify-this-song Ace of Base
+User Command: node liri.js spotify-this-song "I Want it That Way"
+LIRI Response:
+------------------------
+Movie Information:
+Movie Title: Hello
+Year Released: 10 Oct 2008
+IMDB Rating: 3.4
+Country Produced: India
+Language: Hindi
+Plot: Hello... is a tale about the events that happen one night at a call center. Told through the views of the protagonist, Shyam, it is a story of almost lost love, thwarted ambitions, absence ...
+Actors: Sharman Joshi, Amrita Arora, Sohail Khan, Isha Koppikar
+Rotten Tomatoes Rating: undefined
+Rotten Tomatoes URL: undefined
+
+LIRI Response:
+User Tweets:-----------
+Created on: Tue Apr 03 20:40:07 +0000 2018-----------
+Tweet content: What now? "good question." do you have a plan? "sort of. just keep moving."  That's not a plan. "it's gotten me thi… https://t.co/iakXjY4BhC-----------
+Created on: Tue Apr 03 20:33:10 +0000 2018-----------
+Tweet content: Well, you know, I've always been a fan of a story told by Attar of Nishabour. about a king who assembled a group of… https://t.co/aHlqi2vxv0-----------
+Created on: Tue Apr 03 20:28:14 +0000 2018-----------
+Tweet content: I like twitter!-----------
+
+LIRI Response:
+------------------------
+Song Information:
+------------------------
+Song Name: The Sign
+Artist: Ace of Base
+Album: The Sign (US Album) [Remastered]
+Preview Here: https://p.scdn.co/mp3-preview/4c463359f67dd3546db7294d236dd0ae991882ff?cid=d375c55859aa490d9bfad0e4aa789e01
+
+LIRI Response:
+------------------------
+Song Information:
+------------------------
+Song Name: I Want It That Way
+Artist: Backstreet Boys
+Album: The Hits--Chapter One
+Preview Here: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=d375c55859aa490d9bfad0e4aa789e01
+
+LIRI Response:
+------------------------
+Song Information:
+------------------------
+Song Name: The Sign
+Artist: Ace of Base
+Album: The Sign (US Album) [Remastered]
+Preview Here: https://p.scdn.co/mp3-preview/4c463359f67dd3546db7294d236dd0ae991882ff?cid=d375c55859aa490d9bfad0e4aa789e01
+
+User Command: node liri.js my-tweets
+
+User Command: node liri.js movie-this hello
+User Command: node liri.js spotify-this-song hello 
+User Command: node liri.js do-what-it-says
+User Command: node liri.js spotify-this-song Ace of Base
+User Command: node liri.js spotify-this-song "I Want it That Way"
+LIRI Response:
+------------------------
+Movie Information:
+Movie Title: Hello
+Year Released: 10 Oct 2008
+IMDB Rating: 3.4
+Country Produced: India
+Language: Hindi
+Plot: Hello... is a tale about the events that happen one night at a call center. Told through the views of the protagonist, Shyam, it is a story of almost lost love, thwarted ambitions, absence ...
+Actors: Sharman Joshi, Amrita Arora, Sohail Khan, Isha Koppikar
+Rotten Tomatoes Rating: undefined
+Rotten Tomatoes URL: undefined
+
+LIRI Response:
+User Tweets:-----------
+Created on: Tue Apr 03 20:40:07 +0000 2018-----------
+Tweet content: What now? "good question." do you have a plan? "sort of. just keep moving."  That's not a plan. "it's gotten me thi… https://t.co/iakXjY4BhC-----------
+Created on: Tue Apr 03 20:33:10 +0000 2018-----------
+Tweet content: Well, you know, I've always been a fan of a story told by Attar of Nishabour. about a king who assembled a group of… https://t.co/aHlqi2vxv0-----------
+Created on: Tue Apr 03 20:28:14 +0000 2018-----------
+Tweet content: I like twitter!-----------
+
+LIRI Response:
+------------------------
+Song Information:
+------------------------
+Song Name: I Want It That Way
+Artist: Backstreet Boys
+Album: The Hits--Chapter One
+Preview Here: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=d375c55859aa490d9bfad0e4aa789e01
+
+LIRI Response:
+------------------------
+Song Information:
+------------------------
+Song Name: Hello Beautiful
+Artist: Noah Schnacky
+Album: Hello Beautiful
+Preview Here: https://p.scdn.co/mp3-preview/10a58d5841ccfb4e12cb4651b0b7b7c65b5dfe86?cid=d375c55859aa490d9bfad0e4aa789e01
+
+LIRI Response:
+------------------------
+Song Information:
+------------------------
+Song Name: The Sign
+Artist: Ace of Base
+Album: The Sign (US Album) [Remastered]
+Preview Here: https://p.scdn.co/mp3-preview/4c463359f67dd3546db7294d236dd0ae991882ff?cid=d375c55859aa490d9bfad0e4aa789e01
+
+User Command: node liri.js my-tweets
+
+User Command: node liri.js movie-this hello
+User Command: node liri.js spotify-this-song hello 
+User Command: node liri.js do-what-it-says
+User Command: node liri.js spotify-this-song hello
+User Command: node liri.js spotify-this-song "I Want it That Way"
+LIRI Response:
+------------------------
+Movie Information:
+Movie Title: Hello
+Year Released: 10 Oct 2008
+IMDB Rating: 3.4
+Country Produced: India
+Language: Hindi
+Plot: Hello... is a tale about the events that happen one night at a call center. Told through the views of the protagonist, Shyam, it is a story of almost lost love, thwarted ambitions, absence ...
+Actors: Sharman Joshi, Amrita Arora, Sohail Khan, Isha Koppikar
+Rotten Tomatoes Rating: undefined
+Rotten Tomatoes URL: undefined
+
+LIRI Response:
+User Tweets:-----------
+Created on: Tue Apr 03 20:40:07 +0000 2018-----------
+Tweet content: What now? "good question." do you have a plan? "sort of. just keep moving."  That's not a plan. "it's gotten me thi… https://t.co/iakXjY4BhC-----------
+Created on: Tue Apr 03 20:33:10 +0000 2018-----------
+Tweet content: Well, you know, I've always been a fan of a story told by Attar of Nishabour. about a king who assembled a group of… https://t.co/aHlqi2vxv0-----------
+Created on: Tue Apr 03 20:28:14 +0000 2018-----------
+Tweet content: I like twitter!-----------
+
+LIRI Response:
+------------------------
+Song Information:
+------------------------
+Song Name: Hello Beautiful
+Artist: Noah Schnacky
+Album: Hello Beautiful
+Preview Here: https://p.scdn.co/mp3-preview/10a58d5841ccfb4e12cb4651b0b7b7c65b5dfe86?cid=d375c55859aa490d9bfad0e4aa789e01
+
+LIRI Response:
+------------------------
+Song Information:
+------------------------
+Song Name: I Want It That Way
+Artist: Backstreet Boys
+Album: The Hits--Chapter One
+Preview Here: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=d375c55859aa490d9bfad0e4aa789e01
+
+LIRI Response:
+------------------------
+Song Information:
+------------------------
+Song Name: Hello Beautiful
+Artist: Noah Schnacky
+Album: Hello Beautiful
+Preview Here: https://p.scdn.co/mp3-preview/10a58d5841ccfb4e12cb4651b0b7b7c65b5dfe86?cid=d375c55859aa490d9bfad0e4aa789e01
+
+User Command: node liri.js my-tweets
+
+User Command: node liri.js movie-this hello
+User Command: node liri.js spotify-this-song hello 
+User Command: node liri.js do-what-it-says
+User Command: node liri.js spotify-this-song Ace of Base
+User Command: node liri.js spotify-this-song "I Want it That Way"
+LIRI Response:
+------------------------
+Movie Information:
+Movie Title: Hello
+Year Released: 10 Oct 2008
+IMDB Rating: 3.4
+Country Produced: India
+Language: Hindi
+Plot: Hello... is a tale about the events that happen one night at a call center. Told through the views of the protagonist, Shyam, it is a story of almost lost love, thwarted ambitions, absence ...
+Actors: Sharman Joshi, Amrita Arora, Sohail Khan, Isha Koppikar
+Rotten Tomatoes Rating: undefined
+Rotten Tomatoes URL: undefined
+
+LIRI Response:
+User Tweets:-----------
+Created on: Tue Apr 03 20:40:07 +0000 2018-----------
+Tweet content: What now? "good question." do you have a plan? "sort of. just keep moving."  That's not a plan. "it's gotten me thi… https://t.co/iakXjY4BhC-----------
+Created on: Tue Apr 03 20:33:10 +0000 2018-----------
+Tweet content: Well, you know, I've always been a fan of a story told by Attar of Nishabour. about a king who assembled a group of… https://t.co/aHlqi2vxv0-----------
+Created on: Tue Apr 03 20:28:14 +0000 2018-----------
+Tweet content: I like twitter!-----------
+
+LIRI Response:
+------------------------
+Song Information:
+------------------------
+Song Name: I Want It That Way
+Artist: Backstreet Boys
+Album: The Hits--Chapter One
+Preview Here: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=d375c55859aa490d9bfad0e4aa789e01
+
+LIRI Response:
+------------------------
+Song Information:
+------------------------
+Song Name: The Sign
+Artist: Ace of Base
+Album: The Sign (US Album) [Remastered]
+Preview Here: https://p.scdn.co/mp3-preview/4c463359f67dd3546db7294d236dd0ae991882ff?cid=d375c55859aa490d9bfad0e4aa789e01
+
+LIRI Response:
+------------------------
+Song Information:
+------------------------
+Song Name: Hello Beautiful
+Artist: Noah Schnacky
+Album: Hello Beautiful
+Preview Here: https://p.scdn.co/mp3-preview/10a58d5841ccfb4e12cb4651b0b7b7c65b5dfe86?cid=d375c55859aa490d9bfad0e4aa789e01
+
+User Command: node liri.js spotify-this-song Ace of Base
+LIRI Response:
+------------------------
+Song Information:
+------------------------
+Song Name: The Sign
+Artist: Ace of Base
+Album: The Sign (US Album) [Remastered]
+Preview Here: https://p.scdn.co/mp3-preview/4c463359f67dd3546db7294d236dd0ae991882ff?cid=d375c55859aa490d9bfad0e4aa789e01
+
+User Command: node liri.js spotify-this-song Ace of Base
+LIRI Response:
+------------------------
+Song Information:
+------------------------
+Song Name: The Sign
+Artist: Ace of Base
+Album: The Sign (US Album) [Remastered]
+Preview Here: https://p.scdn.co/mp3-preview/4c463359f67dd3546db7294d236dd0ae991882ff?cid=d375c55859aa490d9bfad0e4aa789e01
+
+User Command: node liri.js spotify-this-song hello 
+LIRI Response:
+------------------------
+Song Information:
+------------------------
+Song Name: Hello Beautiful
+Artist: Noah Schnacky
+Album: Hello Beautiful
+Preview Here: https://p.scdn.co/mp3-preview/10a58d5841ccfb4e12cb4651b0b7b7c65b5dfe86?cid=d375c55859aa490d9bfad0e4aa789e01
+

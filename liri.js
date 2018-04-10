@@ -1,11 +1,14 @@
+
 var dotenv = require("dotenv").config();
 
 
 var Twitter = require('twitter');
-var spotify = require('node-spotify-api');
+var Spotify = require('node-spotify-api');
 var request = require('request');
 var fs = require('fs');
 var keys = require('./keys.js');
+
+
 
 
 var cmdArgs = process.argv;
@@ -45,7 +48,7 @@ function retrieveTweets() {
             }
     })
 };
-retrieveTweets();
+// retrieveTweets();
 
 
 var movie;
@@ -96,27 +99,32 @@ function omdbMovieInfo(movie) {
 			}
 		});
     }
-omdbMovieInfo(movie);
+// omdbMovieInfo(movie);
+
 
 
 function spotifySong(song) {
+    console.log(song);
+
+    var spotifyApi = new Spotify(keys.spotify);
+   
     song = song || 'Ace of Base';
 	fs.appendFile('./log.txt', 'User Command: node liri.js spotify-this-song ' + song + '\r\n', (err) => {
 		if (err) throw err;
 	});
 
 	// 	var search;
-	// if (song === '') {
+	// if (song === undefined) {
 	// 	search = 'The Sign Ace Of Base';
 	// } else {
     // 	search = song;}
     
 
 
-	spotify.search({ type: 'track', query: song}, function(error, data) {
+	spotifyApi.search({ type: 'track', query: song}, function(error, data) {
 	   
-        if (err) {
-            return console.log('Error occurred: ' + err);
+        if (error) {
+            return console.log('Error occurred: ' + error);
           }
 				
 			    var songInfo = data.tracks.items[0];
@@ -135,12 +143,13 @@ function spotifySong(song) {
 				});
 	});
 }
-spotifySong();
-
+// console.log(liriArg);
+// spotifySong(liriArg);
+// console.log(spotifySong);
 
 function doAsItSays() {
 	
-	fs.appendFile('./log.txt', 'User Command: node liri.js do-what-it-says\n\n', (err) => {
+	fs.appendFile('./log.txt', 'User Command: node liri.js do-what-it-says\r\n', (err) => {
 		if (err) throw err;
 	});
 
@@ -170,26 +179,24 @@ function doAsItSays() {
 		}
 	});
 }
-doAsItSays()
 
-var liriCommand = cmdArgs[2];
 switch (liriCommand) {
     case "my-tweets":
       retrieveTweets();
       break;
     
     case "movie-this":
-      omdbMovieInfo();
+      omdbMovieInfo(movie);
       break;
     
     case "spotify-this-song":
-      spotifySong();
+      spotifySong(liriArg);
       break;
     
     case "do-what-it-says":
       doAsItSays();
       break;
-    }
+}
 
 
     
